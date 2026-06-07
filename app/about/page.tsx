@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About · P.I.N.T",
-  description: "The story, mission, and unofficial rules of P.I.N.T",
+  description: "The story, mission, and unofficial rules of P.I.N.T — Pub Inebriation Night Tour",
 };
 
 const RULES = [
@@ -47,10 +47,10 @@ export default function About() {
           About P.I.N.T
         </h1>
         <p className="text-2xl text-amber-200">
-          <span className="text-amber-400 font-bold">P</span>als{" "}
-          <span className="text-amber-400 font-bold">I</span>mbibing{" "}
-          <span className="text-amber-400 font-bold">N</span>otable{" "}
-          <span className="text-amber-400 font-bold">T</span>ipples
+          <span className="text-amber-400 font-bold">P</span>ub{" "}
+          <span className="text-amber-400 font-bold">I</span>nebriation{" "}
+          <span className="text-amber-400 font-bold">N</span>ight{" "}
+          <span className="text-amber-400 font-bold">T</span>our
         </p>
       </div>
 

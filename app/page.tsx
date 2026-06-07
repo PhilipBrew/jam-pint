@@ -27,7 +27,7 @@ export default function Home() {
           P.I.N.T
         </h1>
         <p className="text-2xl text-amber-200 font-light tracking-widest mb-3 uppercase">
-          Pals Imbibing Notable Tipples
+          Pub Inebriation Night Tour
         </p>
         <p className="text-amber-600 text-lg mb-12 max-w-lg leading-relaxed">
           A drinking group of questionable taste, impeccable camaraderie, and

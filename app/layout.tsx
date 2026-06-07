@@ -10,7 +10,7 @@ const geist = Geist({
 
 export const metadata: Metadata = {
   title: "P.I.N.T",
-  description: "Pals Imbibing Notable Tipples",
+  description: "Pub Inebriation Night Tour",
 };
 
 export default function RootLayout({
@@ -44,7 +44,7 @@ export default function RootLayout({
         </nav>
         <main className="flex-1">{children}</main>
         <footer className="border-t border-amber-900/40 py-6 text-center text-amber-700 text-sm">
-          🍺 P.I.N.T — Pals Imbibing Notable Tipples · Est. somewhere between the first and third round
+          🍺 P.I.N.T — Pub Inebriation Night Tour · Est. somewhere between the first and third round
         </footer>
       </body>
     </html>
